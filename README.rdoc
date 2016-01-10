@@ -1,28 +1,8 @@
-== README
+<h3>Project Description</h3>
+					<p>					
+						I created this project as a challenge to learn Ruby on rails. A jobs board is a very practical application and that aspect excited me. <br><br>
 
-This README would normally document whatever steps are necessary to get the
-application up and running.
+						My main objective with this project was to learn and understand the MVC architecture that ruby on rails follows. I used several gems like haml and simple form for this project.<br>
 
-Things you may want to cover:
-
-* Ruby version
-
-* System dependencies
-
-* Configuration
-
-* Database creation
-
-* Database initialization
-
-* How to run the test suite
-
-* Services (job queues, cache servers, search engines, etc.)
-
-* Deployment instructions
-
-* ...
-
-
-Please feel free to use a different markup language if you do not plan to run
-<tt>rake doc:app</tt>.
+						This project was deployed using Heroku and it's live at http://jobsboard1.herokuapp.com/
+					</p>
